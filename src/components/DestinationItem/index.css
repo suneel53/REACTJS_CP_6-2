@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.destination-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 20%;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+img {
+  width: 150px;
+}
